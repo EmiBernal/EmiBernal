@@ -1,4 +1,4 @@
-<h3 align="left">Por supuesto, aquí tienes una versión extendida:<br><br>Hi 👋! My name is Emiliano Bernal, and I'm a dedicated Computer Science student at the National University of Río Cuarto in Argentina. With a strong passion for technology and innovation, I am committed to expanding my knowledge and skills in various areas of computer science.</h3>
+<h3 align="center">Hi 👋! My name is Emiliano Bernal, and I'm a dedicated Computer Science student at the National University of Río Cuarto in Argentina. With a strong passion for technology and innovation, I am committed to expanding my knowledge and skills in various areas of computer science.</h3>
 
 ###
 
