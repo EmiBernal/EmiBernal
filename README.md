@@ -26,8 +26,3 @@
 <div align="left">
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/EmiBernal/EmiBernal/output/snake.svg" alt="Snake animation" />
-
-###
