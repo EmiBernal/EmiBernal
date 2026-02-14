@@ -20,6 +20,6 @@ A few things about me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ruby,python,c,haskell,js,mysql,postgres,java,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,github,ruby,python,c,haskell,js,mysql,postgres,java,maven,gradle,gherkin,vscode,obsidian" />
   </a>
 </p>
